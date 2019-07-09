@@ -1,5 +1,5 @@
 # JySignaturePanel
-简单的签名组件
+## 简单的签名组件
 ![演示图片](https://github.com/JyHiting/JySignaturePanel/blob/master/Example/jy_address_picker.gif)
 # 安装
 `pod 'JySignaturePanel'`
