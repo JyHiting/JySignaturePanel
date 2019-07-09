@@ -1,0 +1,6 @@
+framework module JySignaturePanel {
+  umbrella header "JySignaturePanel-umbrella.h"
+
+  export *
+  module * { export * }
+}
