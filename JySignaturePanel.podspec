@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 一个简单的手势签名面板
                        DESC
-  s.homepage         = 'https://github.com/tomy/JySignaturePanel'
+  s.homepage         = 'https://github.com/JyHiting/JySignaturePanel'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'JyHiting' => '1575792978@qq.com' }
   s.source           = { :git => 'https://github.com/JyHiting/JySignaturePanel.git', :tag => s.version.to_s }
